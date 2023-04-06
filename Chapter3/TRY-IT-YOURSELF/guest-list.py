@@ -1,6 +1,7 @@
 gl = ['Bob', 'Rob', 'Tom']
 for x in gl:
     print(f"{x}, you have been invited to dinner a TGIF at 8PM")
+print(f"{len(gl)} people has been invited")
 
 print(" ")
 

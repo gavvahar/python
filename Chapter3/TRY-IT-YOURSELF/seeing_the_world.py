@@ -1,0 +1,12 @@
+places = ['Hawaii', 'Tokyo', 'Hollywood', 'Mexico', 'Utah']
+print(places)
+print(sorted(places))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+print(places.sort())
+print(places)
+print(places.sort(reverse=True))
+print(places)
